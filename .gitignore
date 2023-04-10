@@ -15,3 +15,5 @@
 /tests/test_homepage.py_TestHomePage_test_formSubmissiondict[Password0].png
 /tests/test_homepage.py_TestHomePage_test_formSubmissiondict[Password1].png
 /tests/test_homepage.py_TestHomePage_test_formSubmissiondict[Password2].png
+/venv/
+/.pytest_cache/
