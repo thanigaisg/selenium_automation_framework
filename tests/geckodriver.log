@@ -1,0 +1,73 @@
+1681060200992	geckodriver	INFO	Listening on 127.0.0.1:57047
+1681060205293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57048" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\thani\\AppData\\Local\\Temp\\rust_mozprofilejILuXC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681060223467	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681060223560	Marionette	INFO	Listening on port 57065
+Read port: 57065
+Read port: 57065
+WebDriver BiDi listening on ws://127.0.0.1:57048
+Read port: 57065
+1681060229597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\thani\\AppData\\Local\\Temp\\rust_mozprofilejILuXC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57048/devtools/browser/778fafb2-f999-44a7-8bf9-4d77cde0411d
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1681060297623	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1681060304680	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1681060332025	Marionette	INFO	Stopped listening on port 57065
+Dynamically enable window occlusion 1
+1681060358762	geckodriver	INFO	Listening on 127.0.0.1:57142
+1681060362193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\thani\\AppData\\Local\\Temp\\rust_mozprofile9rKUOE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681060387455	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681060387554	Marionette	INFO	Listening on port 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+WebDriver BiDi listening on ws://127.0.0.1:57143
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+Read port: 57182
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))

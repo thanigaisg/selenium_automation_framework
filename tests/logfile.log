@@ -1,0 +1,580 @@
+2023-04-09 20:14:54,868 : INFO : test_e2e : Getting all the card titles
+2023-04-09 20:14:54,993 : DEBUG : test_e2e : iphone x
+2023-04-09 20:14:55,063 : DEBUG : test_e2e : samsung note 8
+2023-04-09 20:14:55,174 : DEBUG : test_e2e : nokia edge
+2023-04-09 20:14:55,233 : DEBUG : test_e2e : blackberry
+2023-04-09 20:14:55,490 : INFO : test_e2e : Checking out the Blackberry Product
+2023-04-09 20:14:55,832 : INFO : test_e2e : Providing shipping country as India
+2023-04-09 20:15:01,339 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-04-09 20:15:01,455 : INFO : test_e2e : Confirming the Purchase
+2023-04-09 20:30:43,377 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-09 20:30:43,544 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-09 20:30:43,779 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:30:44,102 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-09 20:30:44,175 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-09 20:30:49,797 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:30:49,797 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:30:49,992 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:30:49,992 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:30:50,232 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:30:50,232 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:30:50,552 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:30:50,552 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:30:50,668 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:30:50,668 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:30:56,199 : DEBUG : test_formSubmissiondict : Providing Name as Selenium
+2023-04-09 20:30:56,357 : DEBUG : test_formSubmissiondict : Providing Email as hello@selenium.com
+2023-04-09 20:30:56,573 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:30:56,876 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-09 20:30:56,936 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:31:02,903 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:31:02,903 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:31:03,087 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:31:03,087 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:31:03,318 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:31:03,318 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:31:03,706 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:31:03,706 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:31:03,856 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:31:03,856 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:32:04,476 : INFO : test_e2e : Getting all the card titles
+2023-04-09 20:32:04,555 : DEBUG : test_e2e : iphone x
+2023-04-09 20:32:04,607 : DEBUG : test_e2e : samsung note 8
+2023-04-09 20:32:04,655 : DEBUG : test_e2e : nokia edge
+2023-04-09 20:32:04,695 : DEBUG : test_e2e : blackberry
+2023-04-09 20:32:04,856 : INFO : test_e2e : Checking out the Blackberry Product
+2023-04-09 20:32:05,066 : INFO : test_e2e : Providing shipping country as India
+2023-04-09 20:32:10,561 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-04-09 20:32:10,653 : INFO : test_e2e : Confirming the Purchase
+2023-04-09 20:32:10,836 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-09 20:32:17,618 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-09 20:32:17,779 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-09 20:32:17,996 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:32:18,379 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-09 20:32:18,458 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-09 20:32:24,026 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:32:24,026 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:32:24,207 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:32:24,207 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:32:24,395 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:32:24,395 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:32:24,742 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:32:24,742 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:32:24,855 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:32:24,855 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:32:30,346 : DEBUG : test_formSubmissiondict : Providing Name as Selenium
+2023-04-09 20:32:30,483 : DEBUG : test_formSubmissiondict : Providing Email as hello@selenium.com
+2023-04-09 20:32:30,649 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:32:31,025 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-09 20:32:31,090 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:32:37,489 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:32:37,489 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:32:37,715 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:32:37,715 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:32:38,480 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:32:38,480 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:32:38,978 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:32:38,978 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:32:39,096 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:32:39,096 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:34:34,614 : INFO : test_e2e : Getting all the card titles
+2023-04-09 20:34:35,058 : DEBUG : test_e2e : iphone x
+2023-04-09 20:34:35,127 : DEBUG : test_e2e : samsung note 8
+2023-04-09 20:34:35,167 : DEBUG : test_e2e : nokia edge
+2023-04-09 20:34:35,215 : DEBUG : test_e2e : blackberry
+2023-04-09 20:34:35,440 : INFO : test_e2e : Checking out the Blackberry Product
+2023-04-09 20:34:35,775 : INFO : test_e2e : Providing shipping country as India
+2023-04-09 20:34:42,282 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-04-09 20:34:42,428 : INFO : test_e2e : Confirming the Purchase
+2023-04-09 20:34:42,690 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-09 20:34:50,787 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-09 20:34:51,064 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-09 20:34:51,362 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:34:51,799 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-09 20:34:51,893 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-09 20:34:57,808 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:34:57,808 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:34:58,075 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:34:58,075 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:34:58,366 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:34:58,366 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:34:58,862 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:34:58,862 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:34:59,048 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:34:59,048 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:35:05,044 : DEBUG : test_formSubmissiondict : Providing Name as Selenium
+2023-04-09 20:35:05,286 : DEBUG : test_formSubmissiondict : Providing Email as hello@selenium.com
+2023-04-09 20:35:05,522 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:35:05,933 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-09 20:35:06,005 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:35:11,589 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:35:11,589 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:35:11,776 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:35:11,776 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:35:12,091 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:35:12,091 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:35:12,830 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:35:12,830 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:35:13,002 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:35:13,002 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:36:04,480 : INFO : test_e2e : Getting all the card titles
+2023-04-09 20:36:04,596 : DEBUG : test_e2e : iphone x
+2023-04-09 20:36:04,647 : DEBUG : test_e2e : samsung note 8
+2023-04-09 20:36:04,699 : DEBUG : test_e2e : nokia edge
+2023-04-09 20:36:04,749 : DEBUG : test_e2e : blackberry
+2023-04-09 20:36:04,914 : INFO : test_e2e : Checking out the Blackberry Product
+2023-04-09 20:36:05,248 : INFO : test_e2e : Providing shipping country as India
+2023-04-09 20:36:10,885 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-04-09 20:36:11,070 : INFO : test_e2e : Confirming the Purchase
+2023-04-09 20:36:11,320 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-09 20:36:19,005 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-09 20:36:19,254 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-09 20:36:19,522 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:36:19,933 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-09 20:36:20,048 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-09 20:36:25,959 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:36:25,959 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:36:26,199 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:36:26,199 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:36:26,483 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:36:26,483 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:36:26,913 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:36:26,913 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:36:27,066 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:36:27,066 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:36:32,842 : DEBUG : test_formSubmissiondict : Providing Name as Selenium
+2023-04-09 20:36:33,116 : DEBUG : test_formSubmissiondict : Providing Email as hello@selenium.com
+2023-04-09 20:36:33,359 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:36:34,029 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-09 20:36:34,107 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:36:39,921 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:36:39,921 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:36:40,243 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:36:40,243 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:36:40,597 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:36:40,597 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:36:41,198 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:36:41,198 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:36:41,377 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:36:41,377 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:45:38,243 : INFO : test_e2e : Getting all the card titles
+2023-04-09 20:45:38,317 : DEBUG : test_e2e : iphone x
+2023-04-09 20:45:38,366 : DEBUG : test_e2e : samsung note 8
+2023-04-09 20:45:38,420 : DEBUG : test_e2e : nokia edge
+2023-04-09 20:45:38,459 : DEBUG : test_e2e : blackberry
+2023-04-09 20:45:38,641 : INFO : test_e2e : Checking out the Blackberry Product
+2023-04-09 20:45:38,965 : INFO : test_e2e : Providing shipping country as India
+2023-04-09 20:45:44,578 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-04-09 20:45:44,733 : INFO : test_e2e : Confirming the Purchase
+2023-04-09 20:45:51,762 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-09 20:45:52,004 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-09 20:45:52,243 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:45:52,742 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-09 20:45:52,847 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-09 20:45:58,927 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:45:58,927 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:45:59,113 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:45:59,113 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:45:59,345 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:45:59,345 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:45:59,753 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:45:59,753 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:45:59,902 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:45:59,902 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:46:05,629 : DEBUG : test_formSubmissiondict : Providing Name as Selenium
+2023-04-09 20:46:05,850 : DEBUG : test_formSubmissiondict : Providing Email as hello@selenium.com
+2023-04-09 20:46:06,088 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:46:07,308 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-09 20:46:07,398 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:46:13,291 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:46:13,291 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:46:13,482 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:46:13,482 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:46:13,690 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:46:13,690 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:46:14,073 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:46:14,073 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:46:14,505 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:46:14,505 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:52:06,087 : INFO : test_e2e : Getting all the card titles
+2023-04-09 20:52:06,171 : DEBUG : test_e2e : iphone x
+2023-04-09 20:52:06,218 : DEBUG : test_e2e : samsung note 8
+2023-04-09 20:52:06,428 : DEBUG : test_e2e : nokia edge
+2023-04-09 20:52:06,466 : DEBUG : test_e2e : blackberry
+2023-04-09 20:52:06,549 : INFO : test_e2e : Checking out the Blackberry Product
+2023-04-09 20:52:06,741 : INFO : test_e2e : Providing shipping country as India
+2023-04-09 20:52:12,285 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-04-09 20:52:12,360 : INFO : test_e2e : Confirming the Purchase
+2023-04-09 20:52:17,315 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-09 20:52:17,516 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-09 20:52:17,732 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:52:18,085 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-09 20:52:18,160 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-09 20:52:23,779 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:52:23,779 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:52:23,968 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:52:23,968 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:52:24,205 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:52:24,205 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:52:24,550 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:52:24,550 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:52:24,681 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:52:24,681 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:52:30,205 : DEBUG : test_formSubmissiondict : Providing Name as Selenium
+2023-04-09 20:52:30,368 : DEBUG : test_formSubmissiondict : Providing Email as hello@selenium.com
+2023-04-09 20:52:30,573 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:52:30,948 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-09 20:52:31,006 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:52:36,826 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:52:36,826 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:52:37,058 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:52:37,058 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:52:37,343 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:52:37,343 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:52:37,701 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:52:37,701 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:52:37,814 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:52:37,814 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:55:25,325 : INFO : test_e2e : Getting all the card titles
+2023-04-09 20:55:25,388 : DEBUG : test_e2e : iphone x
+2023-04-09 20:55:25,435 : DEBUG : test_e2e : samsung note 8
+2023-04-09 20:55:25,498 : DEBUG : test_e2e : nokia edge
+2023-04-09 20:55:25,542 : DEBUG : test_e2e : blackberry
+2023-04-09 20:55:25,818 : INFO : test_e2e : Checking out the Blackberry Product
+2023-04-09 20:55:26,021 : INFO : test_e2e : Providing shipping country as India
+2023-04-09 20:55:31,429 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-04-09 20:55:31,524 : INFO : test_e2e : Confirming the Purchase
+2023-04-09 20:55:36,893 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-09 20:55:37,092 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-09 20:55:37,314 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:55:37,661 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-09 20:55:37,726 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-09 20:55:43,335 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:55:43,335 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 20:55:43,517 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:55:43,517 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 20:55:43,744 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:55:43,744 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 20:55:44,110 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:55:44,110 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 20:55:44,229 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:55:44,229 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 20:55:49,758 : DEBUG : test_formSubmissiondict : Providing Name as Selenium
+2023-04-09 20:55:49,920 : DEBUG : test_formSubmissiondict : Providing Email as hello@selenium.com
+2023-04-09 20:55:50,149 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:55:50,457 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-09 20:55:50,521 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:55:56,056 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:55:56,056 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 20:55:56,322 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:55:56,322 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 20:55:56,591 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:55:56,591 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 20:55:57,057 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:55:57,057 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 20:55:57,189 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 20:55:57,189 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 22:18:47,947 : INFO : test_e2e : Getting all the card titles
+2023-04-09 22:18:49,531 : DEBUG : test_e2e : iphone x
+2023-04-09 22:18:49,605 : DEBUG : test_e2e : samsung note 8
+2023-04-09 22:18:49,684 : DEBUG : test_e2e : nokia edge
+2023-04-09 22:18:49,762 : DEBUG : test_e2e : blackberry
+2023-04-09 22:18:50,201 : INFO : test_e2e : Checking out the Blackberry Product
+2023-04-09 22:18:51,515 : INFO : test_e2e : Providing shipping country as India
+2023-04-09 22:18:58,256 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-04-09 22:19:50,197 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-09 22:19:50,748 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-09 22:19:51,407 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 22:19:51,956 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-09 22:19:52,104 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-09 22:19:58,846 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 22:19:58,846 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 22:19:59,109 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 22:19:59,109 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 22:19:59,401 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 22:19:59,401 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 22:19:59,916 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 22:19:59,916 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 22:20:00,166 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 22:20:00,166 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 22:20:06,288 : DEBUG : test_formSubmissiondict : Providing Name as Selenium
+2023-04-09 22:20:06,774 : DEBUG : test_formSubmissiondict : Providing Email as hello@selenium.com
+2023-04-09 22:20:07,194 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 22:20:07,768 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-09 22:20:07,861 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 22:20:14,071 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 22:20:14,071 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 22:20:14,420 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 22:20:14,420 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 22:20:14,877 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 22:20:14,877 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 22:20:15,606 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 22:20:15,606 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 22:20:15,998 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 22:20:15,998 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 22:21:57,905 : INFO : test_e2e : Getting all the card titles
+2023-04-09 22:21:58,102 : DEBUG : test_e2e : iphone x
+2023-04-09 22:21:58,225 : DEBUG : test_e2e : samsung note 8
+2023-04-09 22:21:58,328 : DEBUG : test_e2e : nokia edge
+2023-04-09 22:21:58,403 : DEBUG : test_e2e : blackberry
+2023-04-09 22:21:58,555 : INFO : test_e2e : Checking out the Blackberry Product
+2023-04-09 22:21:59,026 : INFO : test_e2e : Providing shipping country as India
+2023-04-09 22:22:04,915 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-04-09 22:22:05,316 : INFO : test_e2e : Confirming the Purchase
+2023-04-09 22:22:23,933 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-09 22:22:24,254 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-09 22:22:24,744 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 22:22:25,797 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-09 22:22:25,919 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-09 22:22:33,069 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 22:22:33,069 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 22:22:33,697 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 22:22:33,697 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 22:22:34,052 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 22:22:34,052 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 22:22:34,656 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 22:22:34,656 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 22:22:34,855 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 22:22:34,855 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 22:22:40,957 : DEBUG : test_formSubmissiondict : Providing Name as Selenium
+2023-04-09 22:22:41,291 : DEBUG : test_formSubmissiondict : Providing Email as hello@selenium.com
+2023-04-09 22:22:41,664 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 22:22:42,188 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-09 22:22:42,277 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 22:22:48,175 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 22:22:48,175 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 22:22:48,466 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 22:22:48,466 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 22:22:49,034 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 22:22:49,034 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 22:22:49,887 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 22:22:49,887 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 22:22:50,234 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 22:22:50,234 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 22:25:51,393 : INFO : test_e2e : Getting all the card titles
+2023-04-09 22:25:51,828 : DEBUG : test_e2e : iphone x
+2023-04-09 22:25:52,010 : DEBUG : test_e2e : samsung note 8
+2023-04-09 22:25:52,096 : DEBUG : test_e2e : nokia edge
+2023-04-09 22:25:52,151 : DEBUG : test_e2e : blackberry
+2023-04-09 22:25:52,828 : INFO : test_e2e : Checking out the Blackberry Product
+2023-04-09 22:25:53,285 : INFO : test_e2e : Providing shipping country as India
+2023-04-09 22:25:59,919 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-04-09 22:26:00,154 : INFO : test_e2e : Confirming the Purchase
+2023-04-09 22:26:58,866 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-09 22:26:59,215 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-09 22:26:59,497 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 22:27:00,058 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-09 22:27:00,285 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-09 22:27:06,482 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 22:27:06,482 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 22:27:06,703 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 22:27:06,703 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 22:27:07,013 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 22:27:07,013 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 22:27:07,544 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 22:27:07,544 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 22:27:07,767 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 22:27:07,767 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 22:27:14,203 : DEBUG : test_formSubmissiondict : Providing Name as Selenium
+2023-04-09 22:27:14,549 : DEBUG : test_formSubmissiondict : Providing Email as hello@selenium.com
+2023-04-09 22:27:14,882 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 22:27:15,481 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-09 22:27:15,587 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 22:27:21,402 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 22:27:21,402 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 22:27:21,591 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 22:27:21,591 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 22:27:21,804 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 22:27:21,804 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 22:27:22,318 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 22:27:22,318 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 22:27:22,471 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 22:27:22,471 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 22:41:21,232 : INFO : test_e2e : Getting all the card titles
+2023-04-09 22:41:24,394 : DEBUG : test_e2e : iphone x
+2023-04-09 22:41:26,180 : DEBUG : test_e2e : samsung note 8
+2023-04-09 22:41:29,259 : DEBUG : test_e2e : nokia edge
+2023-04-09 22:41:31,046 : DEBUG : test_e2e : blackberry
+2023-04-09 22:41:39,646 : INFO : test_e2e : Checking out the Blackberry Product
+2023-04-09 22:41:48,798 : INFO : test_e2e : Providing shipping country as India
+2023-04-09 22:42:00,532 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-04-09 22:42:01,491 : INFO : test_e2e : Confirming the Purchase
+2023-04-09 22:49:25,190 : INFO : test_e2e : Getting all the card titles
+2023-04-09 22:49:25,315 : DEBUG : test_e2e : iphone x
+2023-04-09 22:49:25,393 : DEBUG : test_e2e : samsung note 8
+2023-04-09 22:49:25,464 : DEBUG : test_e2e : nokia edge
+2023-04-09 22:49:25,511 : DEBUG : test_e2e : blackberry
+2023-04-09 22:49:25,735 : INFO : test_e2e : Checking out the Blackberry Product
+2023-04-09 22:49:26,254 : INFO : test_e2e : Providing shipping country as India
+2023-04-09 22:49:31,915 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-04-09 22:49:32,100 : INFO : test_e2e : Confirming the Purchase
+2023-04-09 22:49:32,406 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-09 22:49:42,110 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-09 22:49:42,687 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-09 22:49:43,178 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 22:49:43,685 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-09 22:49:43,794 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-09 22:49:50,097 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 22:49:50,097 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-09 22:49:50,480 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 22:49:50,480 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-09 22:49:51,048 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 22:49:51,048 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-09 22:49:51,791 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 22:49:51,791 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-09 22:49:52,006 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 22:49:52,006 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-09 22:49:57,975 : DEBUG : test_formSubmissiondict : Providing Name as Selenium
+2023-04-09 22:49:58,244 : DEBUG : test_formSubmissiondict : Providing Email as hello@selenium.com
+2023-04-09 22:49:58,627 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 22:49:59,159 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-09 22:49:59,237 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 22:50:05,028 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 22:50:05,028 : DEBUG : test_formSubmissiondict : Providing Name as Automation
+2023-04-09 22:50:05,296 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 22:50:05,296 : DEBUG : test_formSubmissiondict : Providing Email as hello@automation.com
+2023-04-09 22:50:05,710 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 22:50:05,710 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-09 22:50:06,305 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 22:50:06,305 : DEBUG : test_formSubmissiondict : Providing Gender as Female
+2023-04-09 22:50:06,514 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-09 22:50:06,514 : DEBUG : test_formSubmissiondict : Providing DOB as 01012022
+2023-04-10 08:59:37,073 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-10 08:59:37,595 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-10 08:59:37,821 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 08:59:38,214 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-10 08:59:38,319 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-10 08:59:44,410 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-10 08:59:44,410 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-10 08:59:44,619 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-10 08:59:44,619 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-10 08:59:44,872 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 08:59:44,872 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 08:59:45,235 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-10 08:59:45,235 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-10 08:59:45,439 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-10 08:59:45,439 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-10 09:08:29,610 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-10 09:08:29,809 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-10 09:08:29,994 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 09:08:30,341 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-10 09:08:30,420 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-10 09:08:36,211 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-10 09:08:36,211 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-10 09:08:36,443 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-10 09:08:36,443 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-10 09:08:36,693 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 09:08:36,693 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 09:08:37,088 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-10 09:08:37,088 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-10 09:08:38,043 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-10 09:08:38,043 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-10 09:10:40,244 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-10 09:10:40,445 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-10 09:10:40,728 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 09:10:41,060 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-10 09:10:41,140 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-10 09:10:47,381 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-10 09:10:47,381 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-10 09:10:47,554 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-10 09:10:47,554 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-10 09:10:47,830 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 09:10:47,830 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 09:10:48,245 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-10 09:10:48,245 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-10 09:10:48,362 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-10 09:10:48,362 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-10 09:11:51,034 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-10 09:11:51,220 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-10 09:11:51,433 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 09:11:51,756 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-10 09:11:51,822 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-10 09:12:02,384 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-10 09:12:02,384 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-10 09:12:02,570 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-10 09:12:02,570 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-10 09:12:02,804 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 09:12:02,804 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 09:12:03,102 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-10 09:12:03,102 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-10 09:12:03,222 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-10 09:12:03,222 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-10 09:12:08,754 : DEBUG : test_formSubmissiondict : Providing Name as Selenium7
+2023-04-10 09:12:08,940 : DEBUG : test_formSubmissiondict : Providing Email as sel7@automation.com
+2023-04-10 09:12:09,156 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-10 09:12:09,466 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-10 09:12:09,530 : DEBUG : test_formSubmissiondict : Providing DOB as 1012026
+2023-04-10 09:12:15,038 : DEBUG : test_formSubmissiondict : Providing Name as Selenium7
+2023-04-10 09:12:15,038 : DEBUG : test_formSubmissiondict : Providing Name as Selenium7
+2023-04-10 09:12:15,228 : DEBUG : test_formSubmissiondict : Providing Email as sel7@automation.com
+2023-04-10 09:12:15,228 : DEBUG : test_formSubmissiondict : Providing Email as sel7@automation.com
+2023-04-10 09:12:15,458 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-10 09:12:15,458 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-10 09:12:15,805 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-10 09:12:15,805 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-10 09:12:15,866 : DEBUG : test_formSubmissiondict : Providing DOB as 1012026
+2023-04-10 09:12:15,866 : DEBUG : test_formSubmissiondict : Providing DOB as 1012026
+2023-04-10 09:12:21,382 : DEBUG : test_formSubmissiondict : Providing Name as Selenium7
+2023-04-10 09:12:21,382 : DEBUG : test_formSubmissiondict : Providing Name as Selenium7
+2023-04-10 09:12:21,382 : DEBUG : test_formSubmissiondict : Providing Name as Selenium7
+2023-04-10 09:12:21,576 : DEBUG : test_formSubmissiondict : Providing Email as sel7@automation.com
+2023-04-10 09:12:21,576 : DEBUG : test_formSubmissiondict : Providing Email as sel7@automation.com
+2023-04-10 09:12:21,576 : DEBUG : test_formSubmissiondict : Providing Email as sel7@automation.com
+2023-04-10 09:12:21,807 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-10 09:12:21,807 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-10 09:12:21,807 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-10 09:12:22,127 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-10 09:12:22,127 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-10 09:12:22,127 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-10 09:12:22,196 : DEBUG : test_formSubmissiondict : Providing DOB as 1012026
+2023-04-10 09:12:22,196 : DEBUG : test_formSubmissiondict : Providing DOB as 1012026
+2023-04-10 09:12:22,196 : DEBUG : test_formSubmissiondict : Providing DOB as 1012026
+2023-04-10 09:14:06,302 : DEBUG : test_formSubmissiontupple : Providing Name as Selenium
+2023-04-10 09:14:06,471 : DEBUG : test_formSubmissiontupple : Providing Email as hello@selenium.com
+2023-04-10 09:14:06,663 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 09:14:07,039 : DEBUG : test_formSubmissiontupple : Providing Gender as Male
+2023-04-10 09:14:07,124 : DEBUG : test_formSubmissiontupple : Proving DOB as 01012022
+2023-04-10 09:14:13,248 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-10 09:14:13,248 : DEBUG : test_formSubmissiontupple : Providing Name as Automation
+2023-04-10 09:14:13,419 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-10 09:14:13,419 : DEBUG : test_formSubmissiontupple : Providing Email as hello@automation.com
+2023-04-10 09:14:13,626 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 09:14:13,626 : DEBUG : test_formSubmissiontupple : Providing Password
+2023-04-10 09:14:13,956 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-10 09:14:13,956 : DEBUG : test_formSubmissiontupple : Providing Gender as Female
+2023-04-10 09:14:14,079 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-10 09:14:14,079 : DEBUG : test_formSubmissiontupple : Proving DOB as 31012022
+2023-04-10 09:14:19,840 : DEBUG : test_formSubmissiondict : Providing Name as Selenium7
+2023-04-10 09:14:20,045 : DEBUG : test_formSubmissiondict : Providing Email as sel7@automation.com
+2023-04-10 09:14:20,210 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-10 09:14:20,532 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-10 09:14:20,588 : DEBUG : test_formSubmissiondict : Providing DOB as 01012026
+2023-04-10 09:14:26,132 : DEBUG : test_formSubmissiondict : Providing Name as Selenium7
+2023-04-10 09:14:26,132 : DEBUG : test_formSubmissiondict : Providing Name as Selenium7
+2023-04-10 09:14:26,294 : DEBUG : test_formSubmissiondict : Providing Email as sel7@automation.com
+2023-04-10 09:14:26,294 : DEBUG : test_formSubmissiondict : Providing Email as sel7@automation.com
+2023-04-10 09:14:26,494 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-10 09:14:26,494 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-10 09:14:26,815 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-10 09:14:26,815 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-10 09:14:26,882 : DEBUG : test_formSubmissiondict : Providing DOB as 01012026
+2023-04-10 09:14:26,882 : DEBUG : test_formSubmissiondict : Providing DOB as 01012026
+2023-04-10 09:14:32,498 : DEBUG : test_formSubmissiondict : Providing Name as Selenium7
+2023-04-10 09:14:32,498 : DEBUG : test_formSubmissiondict : Providing Name as Selenium7
+2023-04-10 09:14:32,498 : DEBUG : test_formSubmissiondict : Providing Name as Selenium7
+2023-04-10 09:14:32,749 : DEBUG : test_formSubmissiondict : Providing Email as sel7@automation.com
+2023-04-10 09:14:32,749 : DEBUG : test_formSubmissiondict : Providing Email as sel7@automation.com
+2023-04-10 09:14:32,749 : DEBUG : test_formSubmissiondict : Providing Email as sel7@automation.com
+2023-04-10 09:14:33,089 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-10 09:14:33,089 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-10 09:14:33,089 : DEBUG : test_formSubmissiondict : Providing Password
+2023-04-10 09:14:33,503 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-10 09:14:33,503 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-10 09:14:33,503 : DEBUG : test_formSubmissiondict : Providing Gender as Male
+2023-04-10 09:14:33,561 : DEBUG : test_formSubmissiondict : Providing DOB as 01012026
+2023-04-10 09:14:33,561 : DEBUG : test_formSubmissiondict : Providing DOB as 01012026
+2023-04-10 09:14:33,561 : DEBUG : test_formSubmissiondict : Providing DOB as 01012026
