@@ -17,7 +17,7 @@ def setup(request):
     browser = request.config.getoption("browser_name")
 
     if browser == "chrome":
-        serv_obj = ChromeService("webdrivers\\chromedriver_win32\\chromedriver.exe")
+        serv_obj = ChromeService("webdrivers\\chromedriver-win64\\chromedriver.exe")
         driver = webdriver.Chrome(service=serv_obj)
     elif browser == "firefox":
         serv_obj = FirefoxService("webdrivers\\geckodriver_v0_33_0-win32\\geckodriver.exe")
@@ -26,7 +26,7 @@ def setup(request):
         serv_obj = MSEdgeService("webdrivers\\edgedriver_win64\\msedgedriver.exe")
         driver = webdriver.Edge(service=serv_obj)
     else:
-        serv_obj = ChromeService("webdrivers\\chromedriver_win32\\chromedriver.exe")
+        serv_obj = ChromeService("webdrivers\\chromedriver-win64\\chromedriver.exe")
         driver = webdriver.Chrome(service=serv_obj)
 
     driver.implicitly_wait(2)
@@ -54,7 +54,7 @@ def pytest_runtest_makereport(item):
         xfail = hasattr(report, 'wasxfail')
         if (report.skipped and xfail) or (report.failed and not xfail):
             file_name = report.nodeid.replace("::", "_") + ".png"
-            _capture_screenshot(file_name)
+            # _capture_screenshot(file_name)
             if file_name:
                 html = '<div><img src="%s" alt="screenshot" style="width:304px;height:228px;" ' \
                        'onclick="window.open(this.src)" align="right"/></div>' % file_name
@@ -62,5 +62,5 @@ def pytest_runtest_makereport(item):
         report.extra = extra
 
 
-def _capture_screenshot(name):
-        driver.get_screenshot_as_file(name)
+# def _capture_screenshot(name):
+#         driver.get_screenshot_as_file(name)

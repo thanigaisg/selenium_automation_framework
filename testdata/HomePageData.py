@@ -13,7 +13,7 @@ class HomePageData:
     @staticmethod
     def getTestData(*testcasenames):
 
-        book = openpyxl.load_workbook("E:\\Skillsets\\Automation_Testing\\Projects\\Python_Selenium_Framework\\testdata\\testdata.xlsx")
+        book = openpyxl.load_workbook("D:\\Skillset\\Learning\\selenium_automation_framework\\testdata\\testdata.xlsx")
         sheet = book.active
 
         dicti = {}
