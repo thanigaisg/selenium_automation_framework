@@ -578,3 +578,58 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2023-04-10 09:14:33,561 : DEBUG : test_formSubmissiondict : Providing DOB as 01012026
 2023-04-10 09:14:33,561 : DEBUG : test_formSubmissiondict : Providing DOB as 01012026
 2023-04-10 09:14:33,561 : DEBUG : test_formSubmissiondict : Providing DOB as 01012026
+2023-11-25 20:26:19,098 : INFO : test_e2e : Getting all the card titles
+2023-11-25 20:26:19,255 : DEBUG : test_e2e : iphone x
+2023-11-25 20:26:19,352 : DEBUG : test_e2e : samsung note 8
+2023-11-25 20:26:19,411 : DEBUG : test_e2e : nokia edge
+2023-11-25 20:26:19,447 : DEBUG : test_e2e : blackberry
+2023-11-25 20:26:19,567 : INFO : test_e2e : Checking out the Blackberry Product
+2023-11-25 20:26:19,836 : INFO : test_e2e : Providing shipping country as India
+2023-11-25 20:26:25,368 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-11-25 20:26:25,521 : INFO : test_e2e : Confirming the Purchase
+2023-11-25 20:26:25,725 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-25 20:30:09,208 : INFO : test_e2e : Getting all the card titles
+2023-11-25 20:30:09,643 : DEBUG : test_e2e : iphone x
+2023-11-25 20:30:09,679 : DEBUG : test_e2e : samsung note 8
+2023-11-25 20:30:09,711 : DEBUG : test_e2e : nokia edge
+2023-11-25 20:30:09,739 : DEBUG : test_e2e : blackberry
+2023-11-25 20:30:09,874 : INFO : test_e2e : Checking out the Blackberry Product
+2023-11-25 20:30:10,186 : INFO : test_e2e : Providing shipping country as India
+2023-11-25 20:30:15,829 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-11-25 20:30:15,971 : INFO : test_e2e : Confirming the Purchase
+2023-11-25 20:30:16,176 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-25 20:37:06,606 : INFO : test_e2e : Getting all the card titles
+2023-11-25 20:37:06,781 : DEBUG : test_e2e : iphone x
+2023-11-25 20:37:06,815 : DEBUG : test_e2e : samsung note 8
+2023-11-25 20:37:06,850 : DEBUG : test_e2e : nokia edge
+2023-11-25 20:37:06,897 : DEBUG : test_e2e : blackberry
+2023-11-25 20:37:07,095 : INFO : test_e2e : Checking out the Blackberry Product
+2023-11-25 20:37:07,397 : INFO : test_e2e : Providing shipping country as India
+2023-11-25 20:37:12,878 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-11-25 20:37:12,974 : INFO : test_e2e : Confirming the Purchase
+2023-11-25 20:37:13,167 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-25 20:40:23,785 : INFO : test_e2e : Getting all the card titles
+2023-11-25 20:40:23,882 : DEBUG : test_e2e : iphone x
+2023-11-25 20:40:23,915 : DEBUG : test_e2e : samsung note 8
+2023-11-25 20:40:23,948 : DEBUG : test_e2e : nokia edge
+2023-11-25 20:40:23,978 : DEBUG : test_e2e : blackberry
+2023-11-25 20:40:24,111 : INFO : test_e2e : Checking out the Blackberry Product
+2023-11-25 20:40:24,376 : INFO : test_e2e : Providing shipping country as India
+2023-11-25 20:40:30,016 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-11-25 20:40:30,111 : INFO : test_e2e : Confirming the Purchase
+2023-11-25 20:40:30,298 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-26 09:41:08,826 : INFO : test_e2e : Getting all the card titles
+2023-11-26 09:41:09,182 : DEBUG : test_e2e : iphone x
+2023-11-26 09:41:09,297 : DEBUG : test_e2e : samsung note 8
+2023-11-26 09:41:09,422 : DEBUG : test_e2e : nokia edge
+2023-11-26 09:41:09,567 : DEBUG : test_e2e : blackberry
+2023-11-26 09:41:09,859 : INFO : test_e2e : Checking out the Blackberry Product
+2023-11-26 09:41:10,293 : INFO : test_e2e : Providing shipping country as India
+2023-11-26 09:41:15,925 : INFO : test_e2e : Confirming the Terms and Conditions
+2023-11-26 09:41:16,087 : INFO : test_e2e : Confirming the Purchase
+2023-11-26 09:41:16,384 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

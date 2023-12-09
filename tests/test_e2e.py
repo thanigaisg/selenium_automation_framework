@@ -1,3 +1,5 @@
+import pytest
+
 from pageObjects.HomePage import HomePage
 from utilities.Util import Util
 import time
@@ -5,6 +7,7 @@ import time
 
 class Test_E2E(Util):
 
+    @pytest.mark.skip
     def test_e2e(self):
 
         log = self.getLogger()
@@ -46,3 +49,9 @@ class Test_E2E(Util):
         log.info(alert_msg)
 
         time.sleep(2)
+
+
+class Test_Framework:
+
+    def test_fixtures(self, normal_fixture):
+        print("I'm executing in the middle")

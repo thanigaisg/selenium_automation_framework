@@ -17,16 +17,16 @@ def setup(request):
     browser = request.config.getoption("browser_name")
 
     if browser == "chrome":
-        serv_obj = ChromeService("webdrivers\\chromedriver-win64\\chromedriver.exe")
+        serv_obj = ChromeService("..\\webdrivers\\chromedriver-win32\\chromedriver.exe")
         driver = webdriver.Chrome(service=serv_obj)
     elif browser == "firefox":
-        serv_obj = FirefoxService("webdrivers\\geckodriver_v0_33_0-win32\\geckodriver.exe")
+        serv_obj = FirefoxService("..\\webdrivers\\geckodriver-v0.33.0-win32\\geckodriver.exe")
         driver = webdriver.Firefox(service=serv_obj)
     elif browser == "edge":
-        serv_obj = MSEdgeService("webdrivers\\edgedriver_win64\\msedgedriver.exe")
+        serv_obj = MSEdgeService("..\\webdrivers\\edgedriver_win64\\msedgedriver.exe")
         driver = webdriver.Edge(service=serv_obj)
     else:
-        serv_obj = ChromeService("webdrivers\\chromedriver-win64\\chromedriver.exe")
+        serv_obj = ChromeService("..\\webdrivers\\chromedriver-win32\\chromedriver.exe")
         driver = webdriver.Chrome(service=serv_obj)
 
     driver.implicitly_wait(2)
@@ -64,3 +64,9 @@ def pytest_runtest_makereport(item):
 
 # def _capture_screenshot(name):
 #         driver.get_screenshot_as_file(name)
+
+@pytest.fixture
+def normal_fixture():
+    print("I'm executing first")
+    yield
+    print("I'm executing last")
